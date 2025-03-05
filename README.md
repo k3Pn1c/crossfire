@@ -60,6 +60,9 @@ Escanear múltiples URLs desde un archivo:
 
 ### Ejemplos
 
+![Crossfire Banner](assets/banner.png)
+
+
 Escanear con origen y hilos personalizados:
 ```bash
 ./crossfire.sh -u https://ejemplo.com -o https://atacante.com -t 5
